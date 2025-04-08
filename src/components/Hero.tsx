@@ -36,7 +36,7 @@ const Hero = () => {
             A Full-stack Developer based in Delhi.
           </p>
 
-          <Link href="/assets/navya_resume.pdf" target="_blank" rel="noopener noreferrer">
+          <Link href="/assets/Navya_Resume.pdf" target="_blank" rel="noopener noreferrer">
             <CV_button
               title="Résumé"
               icon={<FaLocationArrow />}
