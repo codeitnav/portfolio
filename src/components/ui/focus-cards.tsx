@@ -3,7 +3,6 @@ import Image, { StaticImageData } from "next/image";
 import React, { useState } from "react";
 import { cn } from "@/lib/utils";
 
-// Update CardType to accept both string and StaticImageData for `src`
 type CardType = {
   title: string;
   desc: string;
