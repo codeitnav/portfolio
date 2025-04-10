@@ -27,7 +27,7 @@ const ProjectsSection = () => {
 
   return (
     <div> 
-      <section className="text-black dark:text-white" id="certifications">
+      <section className="text-black dark:text-white" id="projects">
         <div className="grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-8">
           <div className="text-left flex flex-col h-full">
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4">
