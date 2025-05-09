@@ -28,7 +28,7 @@ const AboutSection = () => {
               About Me
             </h2>
             <p className="text-base sm:text-lg lg:text-xl dark:text-white">
-              I&apos;m a second-year Computer Science and Engineering student with a specialisation in Artificial Intelligence passionate about building real-world solutions through tech. 
+              I&apos;m a Computer Science and Engineering student with a specialisation in Artificial Intelligence passionate about building real-world solutions through tech. 
               <br />
               <br />
               From full-stack development to Web3, I enjoy turning ideas into impactful products. With strong skills in C++, Python, and Next.js, I&apos;m always exploring, learning, and creating. 
